@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseFlow",
+  "description": "Smart personal finance and expense tracking app featuring budgets, savings goals, interactive analytics, and Bangladeshi Taka (৳) currency localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
